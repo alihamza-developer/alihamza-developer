@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alihamzadev" target="blank"><img src="https://img.shields.io/twitter/follow/alihamzadev?logo=twitter&style=for-the-badge" alt="alihamzadev" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://alihamza-developer.github.io/portfolio/](https://alihamza-developer.github.io/portfolio/)
 
