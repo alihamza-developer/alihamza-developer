@@ -1,31 +1,120 @@
-<h1 align="center">Hi 👋, I'm ALI HAMZA</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
-- 🌱 I’m currently learning **MERN Stack**
+<div align="center">
+    <h2><img width=30px
+            src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">I'm
+        Ali Hamza 🧒</h2> <img width=200px
+        src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+    <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"
+        width="200px" alt="waving gif">
+</div>
 
-- 📫 How to reach me **alihamzaofficial3536@gmail.com**
-- ⚡ Fun fact **I think I am funny 😂**
 
-<div> <a href="https://twitter.com/alihamzadev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alihamza-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:alihamzaofficial3536@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alihamzadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="alihamzadev" height="30" width="40" /></a><a href="https://linkedin.com/in/alihamza-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="alihamza-developer" height="30" width="40" /></a><a href="https://www.leetcode.com/alihamza-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="alihamza-developer" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+
+<p>I have insatiable desire to learn and constantly evolve as a full stack developer. With a dedication to write
+    elegant,
+    efficient, and maintainable code, I strive for excellence in everything I do. Solving real-world problems and paying
+    attention to detail is my specialty</p>
+<span>💡 Experience: I have worked in fast-paced startup environments, gaining valuable knowledge and skills.</span><br>
+<span>💪 Learning Mindset: I always have a thirst for knowledge and keep up with the latest technologies and industry
+    trends.</span><br>
+<span>🔧 Coding Standards: I follow established coding guidelines to write clean, efficient, and easy-to-maintain
+    code.</span><br>
+<span>🔎 Problem Solver: I enjoy solving real-world problems and have a talent for tackling complex
+    challenges.</span><br>
+<span>🔍 Attention to Detail: I pay close attention to every detail to ensure high-quality project execution.</span><br>
+<span>🚀 Technical Challenges: I actively seek out and embrace technical challenges as opportunities for personal and
+    professional growth.</span><br><br>
+
+<h2>Skills and expertise:</h2>
+<ul>
+    <li>
+        <strong>Primary languages:</strong> HTML, JavaScript and PHP.
+    </li>
+    <li>
+        <strong>Additional languages:</strong> Python
+    </li>
+    <li>
+        <strong>Markup languages:</strong> HTML, XML.
+    </li>
+</ul>
+<h3>Frontend:</h3>
+<ul>
+    <li>
+        Frameworks: Next.js, React.js, Vue.js
+    </li>
+    <li>
+        State management: Redux Toolkit, Zustand.
+    </li>
+    <li>
+        UI libraries: Styled Components, Material UI, Stitches, Ant Design, Radix (unstyled UI library), Tailwind.
+    </li>
+    <li>
+        Build tools: Vite, Webpack, Turbopack
+    </li>
+</ul>
+<h3>Backend:</h3>
+<ul>
+    <li>
+        Node.js frameworks: Express, Nest.js with REST API development.
+    </li>
+    <li>
+        Python frameworks: Django, Flask.
+    </li>
+    <li>
+        Database: PostgreSQL, MongoDB, MySQL, Firebase (BaaS).
+    </li>
+    <li>
+        ODM/ORM: Prisma, TypeORM, Mongoose, Sequelize.
+    </li>
+    <li>
+        Real-time Communication: Socket.io.
+    </li>
+    <li>
+        GraphQL integration: Apollo Server
+    </li>
+    <li>
+        Web Scraping: Puppeteer
+    </li>
+    <li>
+        Authentication: JWT, Passport.js
+    </li>
+</ul>
+
+<h3>Design Patterns:</h3>
+<ul>
+    <li>
+        Model-View-Controller (MVC)
+    </li>
+    <li>
+        Separation of concerns
+    </li>
+    <li>
+        DRY (Don't Repeat Yourself)
+    </li>
+    <li>
+        Facade
+    </li>
+</ul>
+<h3>Location:</h3>
+<ul>
+    <li>
+        Mian Channu, Pakistan
+    </li>
+</ul>
+<h3>Contact:</h3>
+<ul>
+    <li>
+        <a href="mailto:alihamzaofficial3536@gmail.com">alihamzaofficial3536@gmail.com</a>
+    </li>
+</ul>
+<h3>Collaboration:</h3>
+<ul>
+    <li>
+        Open to collaborating on interesting projects
+    </li>
+</ul>
+<br><br>
+<a href=""><img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alihamza-developer&theme=algolia&show_icons=true&hide_border=true"></a>
+<a href="http://www.github.com/alihamza-developer"><img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=alihamza-developer&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
