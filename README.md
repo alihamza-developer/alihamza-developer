@@ -10,7 +10,7 @@
 
 
 
-<p>I have insatiable desire to learn and constantly evolve as a full stack developer. With a dedication to write
+<!-- <p>I have insatiable desire to learn and constantly evolve as a full stack developer. With a dedication to write
     elegant,
     efficient, and maintainable code, I strive for excellence in everything I do. Solving real-world problems and paying
     attention to detail is my specialty</p>
@@ -113,7 +113,7 @@
         Open to collaborating on interesting projects
     </li>
 </ul>
-<br><br>
+<br><br> -->
 <a href=""><img
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alihamza-developer&theme=algolia&show_icons=true&hide_border=true"></a>
 <a href="http://www.github.com/alihamza-developer"><img
