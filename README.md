@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ali Hamza</h2>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ali Hamza</h2></p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
