@@ -25,7 +25,7 @@ I am a Full Stack Web Developer with 4 years of experience, specializing in web 
 <table>
   <tbody>
 	<tr>
-      <td><a href="https://github.com/alihamza-developer/login-suite"><b>⚽️ Event Driven Architecture with Golang</b></a></td>
+      <td><a href="https://github.com/alihamza-developer/login-suite"><b>Login Suite</b></a></td>
       <td>The projects aims to start PHP projects with pre built login system, Ajax Request Management and much more...  </td>
     </tr>
   </tbody>
