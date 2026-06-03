@@ -7,7 +7,7 @@
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](YOUTUBE_URL) -->
 <!-- [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](MEDIUM_URL) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihamza-developer/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=&logoColor=white)](https://www.fiverr.com/alihamza_dev123/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/alihamza_dev123/)
 [![Upwork](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
 [![Quora](https://img.shields.io/badge/Quora-b2332b?style=for-the-badge)](https://www.quora.com/profile/Ali-Hamza-5201)
 
